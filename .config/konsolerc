@@ -1,0 +1,18 @@
+[Desktop Entry]
+DefaultProfile=Profile 3.profile
+
+[DownloadDialog Settings]
+Window-Maximized 1080x1920=true
+
+[Favorite Profiles]
+Favorites=Profile 1.profile,TERMINAL.profile,Profile 2.profile
+
+[KonsoleWindow]
+SaveGeometryOnExit=false
+ShowMenuBarByDefault=false
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB1gAAAPxAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Window-Maximized 1080x1920=true
